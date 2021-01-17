@@ -1,3 +1,3 @@
-pip install pyTelegramBotAPI
+pip3 install pyTelegramBotAPI
 cd pemesanan
-python ky.py
+python3 ky.py
