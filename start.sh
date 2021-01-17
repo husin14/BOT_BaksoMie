@@ -1,3 +1,3 @@
 pip3 install pyTelegramBotAPI
-cd pemesanan
+cd Bakso_Boedjangan
 python3 ky.py
