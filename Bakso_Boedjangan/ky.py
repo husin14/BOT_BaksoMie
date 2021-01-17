@@ -70,7 +70,7 @@ def command_alamat(m):
     bot.send_message(cid, "Berikut akan kami kirimkan lokasi warung kami.. Tunggu sebentar kak")
 
     # bot.send_video(cid, open('alamat.mp4', 'rb'))
-    bot.send_location(cid,-6.997396,110.4300099)
+    bot.send_location(cid,-6.9973984,110.4278288)
 
 @bot.message_handler(commands=['video'])
 def command_video(m):
